@@ -5,7 +5,7 @@ spring:
     driver-class-name: com.mysql.jdbc.Driver
     username: root
     password: aA123456
-    url: jdbc:mysql://117.78.40.115:3306/order_test?serverTimezone=UTC&characterEncoding=utf8&useUnicode=true&useSSL=false
+    url: jdbc:mysql://49.4.3.202:3306/order_test?serverTimezone=UTC&characterEncoding=utf8&useUnicode=true&useSSL=false
 env:
   dev
 server:
