@@ -1,4 +1,5 @@
 zuul:
+  sensitive-headers: 
   routes:
   # /myProduct/product/list -> /product/product/list
     aaaaaa:
